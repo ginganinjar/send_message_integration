@@ -13,3 +13,5 @@ The script will then shell out and execeute sendMessage.aqpplescrtipt.
 
 The server must be running OS and the iphone must have provided access to the mac in order to send.
 
+If you require any support - please email me at david@mstone.com.au 
+David Sparrius
